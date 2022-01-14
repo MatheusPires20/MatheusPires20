@@ -2,7 +2,7 @@
 
 - 🔭 I'm working on becoming a great developer
 - 🌱 I’m currently learning Back-end and Front-end
-- 😄 Pronouns: he/her
+- 😄 Pronouns: he/his
 
 <div>
   <a href="https://github/MatheusPires20">
