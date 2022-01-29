@@ -1,4 +1,4 @@
-### Hey, bom te ver aqui! Eu sou o Matheus, mas pode me chamar de Math! :)
+### Hey, good to see you! I'm Matheus
 
 - 🔭 I'm working on becoming a great developer
 - 🌱 I’m currently learning Back-end and Front-end
